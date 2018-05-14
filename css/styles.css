@@ -1,38 +1,30 @@
 body {
   font-family: sans-serif;
-  margin: 0;
+  margin: 2%;
 }
-
-.banner {
-  background-color: #FFE1A9;
+.asko {
+  background-color: red;
   text-align: center;
-  padding: 3%;
-  margin-bottom: 3%;
+  padding: 2%;
+  margin-bottom: 2%;
 }
-
 .side-bar {
-  background-color: #7DAF7C;
+  background-color: yellow;
   float: left;
   padding: 2%;
 }
-
 .side-bar h4 {
-  color: #FFE1A9;
+  color: blue;
 }
-
-.side-bar p {
-}
-
 .game {
   display: inline-block;
-  margin: 3%;
+  margin: 2%;
 }
-
-.game label {
+.game ali {
   font-weight: bold;
+  color: yellow;
 }
-
 .game button {
-  background-color: #B9B9B9;
+  background-color: green;
   padding: 1%;
 }
